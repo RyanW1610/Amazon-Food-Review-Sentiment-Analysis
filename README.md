@@ -24,10 +24,12 @@ This project uses Amazon food reviews to predict if a customer review is positiv
  
  ## Models Used
     - Logistic Regression
-    - Decision Tree
+    - Balanced Logistic Regression
     - Random Forest
-    - Support Vector Classifier (SVC)
-    - Deep Learning Neural Network
+    - Support Vector Machine (SVM)
+    - Basic Neural Network
+    - LSTM
+    - GRU
    
 ## What I Learned
 This project helped me better understand how machine learning can be used to analyze text and predict sentiment. I also gained experience comparing different models and seeing how their performance can change based on the data.
