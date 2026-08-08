@@ -35,4 +35,4 @@ This project uses Amazon food reviews to predict if a customer review is positiv
     SVM had the highest accuracy 91.41%, with LSTM right behind at 91.30%.
    
 ## What I Learned
-This project helped me better understand how machine learning can be used to analyze text and predict sentiment. I also gained experience comparing different models and seeing how their performance can change based on the data.
+I got more experience using machine learning to analyze text and predict sentiment. I also learned how different models can perform differently depending on the data.
