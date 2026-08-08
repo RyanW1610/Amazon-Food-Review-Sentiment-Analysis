@@ -13,7 +13,7 @@ This project uses Amazon food reviews to predict if a customer review is positiv
 - Matplotlib
 - Kagglehub
   
-  ## Project Steps
+## Project Steps
   - Loaded the Amazon Food Reviews dataset
   - Explored and cleaned the data
   - Converted review scores into positive and negative sentiment
@@ -22,12 +22,12 @@ This project uses Amazon food reviews to predict if a customer review is positiv
   - Built a deep learning model
   - Compared the model results
  
-    ## Models Used
+ ## Models Used
     - Logistic Regression
     - Decision Tree
     - Random Forest
     - Support Vector Classifier (SVC)
     - Deep Learning Neural Network
    
-  ## What I Learned
+## What I Learned
 This project helped me better understand how machine learning can be used to analyze text and predict sentiment. I also gained experience comparing different models and seeing how their performance can change based on the data.
