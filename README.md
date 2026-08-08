@@ -31,7 +31,7 @@ This project uses Amazon food reviews to predict if a customer review is positiv
     - LSTM
     - GRU
 
-    ## Results
+  ## Results
     SVM had the highest accuracy 91.41%, with LSTM right behind at 91.30%.
    
 ## What I Learned
